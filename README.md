@@ -1,4 +1,4 @@
 # calculator
 this is my first git repository
 <br>
-Author-srirama vivek
+Author-srirama vivek (jain university)
